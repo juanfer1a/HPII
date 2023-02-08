@@ -1,0 +1,20 @@
+C:\Users\jgaleano\source\repos\Arreglos\Arreglos\bin\Debug\Arreglos.exe.config
+C:\Users\jgaleano\source\repos\Arreglos\Arreglos\bin\Debug\Arreglos.exe
+C:\Users\jgaleano\source\repos\Arreglos\Arreglos\bin\Debug\Arreglos.pdb
+C:\Users\jgaleano\source\repos\Arreglos\Arreglos\obj\Debug\Arreglos.csprojAssemblyReference.cache
+C:\Users\jgaleano\source\repos\Arreglos\Arreglos\obj\Debug\Arreglos.frmArreglos.resources
+C:\Users\jgaleano\source\repos\Arreglos\Arreglos\obj\Debug\Arreglos.Properties.Resources.resources
+C:\Users\jgaleano\source\repos\Arreglos\Arreglos\obj\Debug\Arreglos.csproj.GenerateResource.cache
+C:\Users\jgaleano\source\repos\Arreglos\Arreglos\obj\Debug\Arreglos.csproj.CoreCompileInputs.cache
+C:\Users\jgaleano\source\repos\Arreglos\Arreglos\obj\Debug\Arreglos.exe
+C:\Users\jgaleano\source\repos\Arreglos\Arreglos\obj\Debug\Arreglos.pdb
+I:\Mi unidad\2021-1\HPII\Arreglos\Arreglos\bin\Debug\Arreglos.exe.config
+I:\Mi unidad\2021-1\HPII\Arreglos\Arreglos\bin\Debug\Arreglos.exe
+I:\Mi unidad\2021-1\HPII\Arreglos\Arreglos\bin\Debug\Arreglos.pdb
+I:\Mi unidad\2021-1\HPII\Arreglos\Arreglos\obj\Debug\Arreglos.csprojAssemblyReference.cache
+I:\Mi unidad\2021-1\HPII\Arreglos\Arreglos\obj\Debug\Arreglos.frmArreglos.resources
+I:\Mi unidad\2021-1\HPII\Arreglos\Arreglos\obj\Debug\Arreglos.Properties.Resources.resources
+I:\Mi unidad\2021-1\HPII\Arreglos\Arreglos\obj\Debug\Arreglos.csproj.GenerateResource.cache
+I:\Mi unidad\2021-1\HPII\Arreglos\Arreglos\obj\Debug\Arreglos.csproj.CoreCompileInputs.cache
+I:\Mi unidad\2021-1\HPII\Arreglos\Arreglos\obj\Debug\Arreglos.exe
+I:\Mi unidad\2021-1\HPII\Arreglos\Arreglos\obj\Debug\Arreglos.pdb

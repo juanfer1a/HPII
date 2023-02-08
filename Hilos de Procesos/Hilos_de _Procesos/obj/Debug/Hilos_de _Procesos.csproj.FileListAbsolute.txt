@@ -1,0 +1,10 @@
+C:\Users\ferch\source\repos\Hilos_de _Procesos\bin\Debug\Hilos_de _Procesos.exe.config
+C:\Users\ferch\source\repos\Hilos_de _Procesos\bin\Debug\Hilos_de _Procesos.exe
+C:\Users\ferch\source\repos\Hilos_de _Procesos\bin\Debug\Hilos_de _Procesos.pdb
+C:\Users\ferch\source\repos\Hilos_de _Procesos\obj\Debug\Hilos_de _Procesos.csprojAssemblyReference.cache
+C:\Users\ferch\source\repos\Hilos_de _Procesos\obj\Debug\Hilos_de__Procesos.FrmHilosDeProcesos.resources
+C:\Users\ferch\source\repos\Hilos_de _Procesos\obj\Debug\Hilos_de__Procesos.Properties.Resources.resources
+C:\Users\ferch\source\repos\Hilos_de _Procesos\obj\Debug\Hilos_de _Procesos.csproj.GenerateResource.cache
+C:\Users\ferch\source\repos\Hilos_de _Procesos\obj\Debug\Hilos_de _Procesos.csproj.CoreCompileInputs.cache
+C:\Users\ferch\source\repos\Hilos_de _Procesos\obj\Debug\Hilos_de _Procesos.exe
+C:\Users\ferch\source\repos\Hilos_de _Procesos\obj\Debug\Hilos_de _Procesos.pdb

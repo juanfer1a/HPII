@@ -1,0 +1,55 @@
+C:\Users\jgaleano\source\repos\WindowsFormsApp2\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.csprojAssemblyReference.cache
+C:\Users\jgaleano\source\repos\WindowsFormsApp2\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.Form1.resources
+C:\Users\jgaleano\source\repos\WindowsFormsApp2\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.Properties.Resources.resources
+C:\Users\jgaleano\source\repos\WindowsFormsApp2\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.csproj.GenerateResource.cache
+C:\Users\jgaleano\source\repos\WindowsFormsApp2\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.csproj.CoreCompileInputs.cache
+C:\Users\jgaleano\source\repos\WindowsFormsApp2\WindowsFormsApp2\bin\Debug\WindowsFormsApp2.exe.config
+C:\Users\jgaleano\source\repos\WindowsFormsApp2\WindowsFormsApp2\bin\Debug\WindowsFormsApp2.exe
+C:\Users\jgaleano\source\repos\WindowsFormsApp2\WindowsFormsApp2\bin\Debug\WindowsFormsApp2.pdb
+C:\Users\jgaleano\source\repos\WindowsFormsApp2\WindowsFormsApp2\bin\Debug\MySql.Data.dll
+C:\Users\jgaleano\source\repos\WindowsFormsApp2\WindowsFormsApp2\bin\Debug\Google.Protobuf.dll
+C:\Users\jgaleano\source\repos\WindowsFormsApp2\WindowsFormsApp2\bin\Debug\MySql.Data.xml
+C:\Users\jgaleano\source\repos\WindowsFormsApp2\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.csproj.CopyComplete
+C:\Users\jgaleano\source\repos\WindowsFormsApp2\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.exe
+C:\Users\jgaleano\source\repos\WindowsFormsApp2\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.pdb
+D:\PascualBravo\Herramientas2\3_MySQL\MySQLCS_version2_otraforma\WindowsFormsApp2\WindowsFormsApp2\bin\Debug\WindowsFormsApp2.exe.config
+D:\PascualBravo\Herramientas2\3_MySQL\MySQLCS_version2_otraforma\WindowsFormsApp2\WindowsFormsApp2\bin\Debug\WindowsFormsApp2.exe
+D:\PascualBravo\Herramientas2\3_MySQL\MySQLCS_version2_otraforma\WindowsFormsApp2\WindowsFormsApp2\bin\Debug\WindowsFormsApp2.pdb
+D:\PascualBravo\Herramientas2\3_MySQL\MySQLCS_version2_otraforma\WindowsFormsApp2\WindowsFormsApp2\bin\Debug\MySql.Data.dll
+D:\PascualBravo\Herramientas2\3_MySQL\MySQLCS_version2_otraforma\WindowsFormsApp2\WindowsFormsApp2\bin\Debug\Google.Protobuf.dll
+D:\PascualBravo\Herramientas2\3_MySQL\MySQLCS_version2_otraforma\WindowsFormsApp2\WindowsFormsApp2\bin\Debug\MySql.Data.xml
+D:\PascualBravo\Herramientas2\3_MySQL\MySQLCS_version2_otraforma\WindowsFormsApp2\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.csprojAssemblyReference.cache
+D:\PascualBravo\Herramientas2\3_MySQL\MySQLCS_version2_otraforma\WindowsFormsApp2\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.Form1.resources
+D:\PascualBravo\Herramientas2\3_MySQL\MySQLCS_version2_otraforma\WindowsFormsApp2\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.Properties.Resources.resources
+D:\PascualBravo\Herramientas2\3_MySQL\MySQLCS_version2_otraforma\WindowsFormsApp2\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.csproj.GenerateResource.cache
+D:\PascualBravo\Herramientas2\3_MySQL\MySQLCS_version2_otraforma\WindowsFormsApp2\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.csproj.CoreCompileInputs.cache
+D:\PascualBravo\Herramientas2\3_MySQL\MySQLCS_version2_otraforma\WindowsFormsApp2\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.csproj.CopyComplete
+D:\PascualBravo\Herramientas2\3_MySQL\MySQLCS_version2_otraforma\WindowsFormsApp2\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.exe
+D:\PascualBravo\Herramientas2\3_MySQL\MySQLCS_version2_otraforma\WindowsFormsApp2\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.pdb
+D:\PascualBravo\Herramientas2\3_MySQL\MySQLCS_version2_otraforma\3_WindowsFormsApp2\WindowsFormsApp2\WindowsFormsApp2\bin\Debug\WindowsFormsApp2.exe.config
+D:\PascualBravo\Herramientas2\3_MySQL\MySQLCS_version2_otraforma\3_WindowsFormsApp2\WindowsFormsApp2\WindowsFormsApp2\bin\Debug\WindowsFormsApp2.exe
+D:\PascualBravo\Herramientas2\3_MySQL\MySQLCS_version2_otraforma\3_WindowsFormsApp2\WindowsFormsApp2\WindowsFormsApp2\bin\Debug\WindowsFormsApp2.pdb
+D:\PascualBravo\Herramientas2\3_MySQL\MySQLCS_version2_otraforma\3_WindowsFormsApp2\WindowsFormsApp2\WindowsFormsApp2\bin\Debug\MySql.Data.dll
+D:\PascualBravo\Herramientas2\3_MySQL\MySQLCS_version2_otraforma\3_WindowsFormsApp2\WindowsFormsApp2\WindowsFormsApp2\bin\Debug\Google.Protobuf.dll
+D:\PascualBravo\Herramientas2\3_MySQL\MySQLCS_version2_otraforma\3_WindowsFormsApp2\WindowsFormsApp2\WindowsFormsApp2\bin\Debug\MySql.Data.xml
+D:\PascualBravo\Herramientas2\3_MySQL\MySQLCS_version2_otraforma\3_WindowsFormsApp2\WindowsFormsApp2\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.csprojAssemblyReference.cache
+D:\PascualBravo\Herramientas2\3_MySQL\MySQLCS_version2_otraforma\3_WindowsFormsApp2\WindowsFormsApp2\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.Form1.resources
+D:\PascualBravo\Herramientas2\3_MySQL\MySQLCS_version2_otraforma\3_WindowsFormsApp2\WindowsFormsApp2\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.Properties.Resources.resources
+D:\PascualBravo\Herramientas2\3_MySQL\MySQLCS_version2_otraforma\3_WindowsFormsApp2\WindowsFormsApp2\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.csproj.GenerateResource.cache
+D:\PascualBravo\Herramientas2\3_MySQL\MySQLCS_version2_otraforma\3_WindowsFormsApp2\WindowsFormsApp2\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.csproj.CoreCompileInputs.cache
+D:\PascualBravo\Herramientas2\3_MySQL\MySQLCS_version2_otraforma\3_WindowsFormsApp2\WindowsFormsApp2\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.csproj.CopyComplete
+D:\PascualBravo\Herramientas2\3_MySQL\MySQLCS_version2_otraforma\3_WindowsFormsApp2\WindowsFormsApp2\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.exe
+D:\PascualBravo\Herramientas2\3_MySQL\MySQLCS_version2_otraforma\3_WindowsFormsApp2\WindowsFormsApp2\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.pdb
+I:\Mi unidad\2021-1\HPII\percistencia de datos\mysql\MySQL+C#\3_WindowsFormsApp2\WindowsFormsApp2\WindowsFormsApp2\bin\Debug\WindowsFormsApp2.exe.config
+I:\Mi unidad\2021-1\HPII\percistencia de datos\mysql\MySQL+C#\3_WindowsFormsApp2\WindowsFormsApp2\WindowsFormsApp2\bin\Debug\WindowsFormsApp2.exe
+I:\Mi unidad\2021-1\HPII\percistencia de datos\mysql\MySQL+C#\3_WindowsFormsApp2\WindowsFormsApp2\WindowsFormsApp2\bin\Debug\WindowsFormsApp2.pdb
+I:\Mi unidad\2021-1\HPII\percistencia de datos\mysql\MySQL+C#\3_WindowsFormsApp2\WindowsFormsApp2\WindowsFormsApp2\bin\Debug\Google.Protobuf.dll
+I:\Mi unidad\2021-1\HPII\percistencia de datos\mysql\MySQL+C#\3_WindowsFormsApp2\WindowsFormsApp2\WindowsFormsApp2\bin\Debug\MySql.Data.xml
+I:\Mi unidad\2021-1\HPII\percistencia de datos\mysql\MySQL+C#\3_WindowsFormsApp2\WindowsFormsApp2\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.csprojAssemblyReference.cache
+I:\Mi unidad\2021-1\HPII\percistencia de datos\mysql\MySQL+C#\3_WindowsFormsApp2\WindowsFormsApp2\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.Form1.resources
+I:\Mi unidad\2021-1\HPII\percistencia de datos\mysql\MySQL+C#\3_WindowsFormsApp2\WindowsFormsApp2\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.Properties.Resources.resources
+I:\Mi unidad\2021-1\HPII\percistencia de datos\mysql\MySQL+C#\3_WindowsFormsApp2\WindowsFormsApp2\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.csproj.GenerateResource.cache
+I:\Mi unidad\2021-1\HPII\percistencia de datos\mysql\MySQL+C#\3_WindowsFormsApp2\WindowsFormsApp2\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.csproj.CoreCompileInputs.cache
+I:\Mi unidad\2021-1\HPII\percistencia de datos\mysql\MySQL+C#\3_WindowsFormsApp2\WindowsFormsApp2\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.csproj.CopyComplete
+I:\Mi unidad\2021-1\HPII\percistencia de datos\mysql\MySQL+C#\3_WindowsFormsApp2\WindowsFormsApp2\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.exe
+I:\Mi unidad\2021-1\HPII\percistencia de datos\mysql\MySQL+C#\3_WindowsFormsApp2\WindowsFormsApp2\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.pdb

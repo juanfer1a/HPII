@@ -1,0 +1,29 @@
+c:\users\julián galeano\documents\visual studio 2015\Projects\wLoadFiles\wLoadFiles\bin\Debug\wLoadFiles.exe.config
+c:\users\julián galeano\documents\visual studio 2015\Projects\wLoadFiles\wLoadFiles\bin\Debug\wLoadFiles.exe
+c:\users\julián galeano\documents\visual studio 2015\Projects\wLoadFiles\wLoadFiles\bin\Debug\wLoadFiles.pdb
+c:\users\julián galeano\documents\visual studio 2015\Projects\wLoadFiles\wLoadFiles\obj\Debug\wLoadFiles.csprojResolveAssemblyReference.cache
+c:\users\julián galeano\documents\visual studio 2015\Projects\wLoadFiles\wLoadFiles\obj\Debug\wLoadFiles.Form1.resources
+c:\users\julián galeano\documents\visual studio 2015\Projects\wLoadFiles\wLoadFiles\obj\Debug\wLoadFiles.Properties.Resources.resources
+c:\users\julián galeano\documents\visual studio 2015\Projects\wLoadFiles\wLoadFiles\obj\Debug\wLoadFiles.csproj.GenerateResource.Cache
+c:\users\julián galeano\documents\visual studio 2015\Projects\wLoadFiles\wLoadFiles\obj\Debug\wLoadFiles.exe
+c:\users\julián galeano\documents\visual studio 2015\Projects\wLoadFiles\wLoadFiles\obj\Debug\wLoadFiles.pdb
+D:\PascualBravo\Herramientas2\CargarPlanosCSV\wLoadFiles\wLoadFiles\bin\Debug\wLoadFiles.exe.config
+D:\PascualBravo\Herramientas2\CargarPlanosCSV\wLoadFiles\wLoadFiles\bin\Debug\wLoadFiles.exe
+D:\PascualBravo\Herramientas2\CargarPlanosCSV\wLoadFiles\wLoadFiles\bin\Debug\wLoadFiles.pdb
+D:\PascualBravo\Herramientas2\CargarPlanosCSV\wLoadFiles\wLoadFiles\obj\Debug\wLoadFiles.csprojAssemblyReference.cache
+D:\PascualBravo\Herramientas2\CargarPlanosCSV\wLoadFiles\wLoadFiles\obj\Debug\wLoadFiles.Form1.resources
+D:\PascualBravo\Herramientas2\CargarPlanosCSV\wLoadFiles\wLoadFiles\obj\Debug\wLoadFiles.Properties.Resources.resources
+D:\PascualBravo\Herramientas2\CargarPlanosCSV\wLoadFiles\wLoadFiles\obj\Debug\wLoadFiles.csproj.GenerateResource.cache
+D:\PascualBravo\Herramientas2\CargarPlanosCSV\wLoadFiles\wLoadFiles\obj\Debug\wLoadFiles.csproj.CoreCompileInputs.cache
+D:\PascualBravo\Herramientas2\CargarPlanosCSV\wLoadFiles\wLoadFiles\obj\Debug\wLoadFiles.exe
+D:\PascualBravo\Herramientas2\CargarPlanosCSV\wLoadFiles\wLoadFiles\obj\Debug\wLoadFiles.pdb
+I:\Mi unidad\2021-1\HPII\percistencia de datos\CSV\wLoadFiles\bin\Debug\wLoadFiles.exe.config
+I:\Mi unidad\2021-1\HPII\percistencia de datos\CSV\wLoadFiles\bin\Debug\wLoadFiles.exe
+I:\Mi unidad\2021-1\HPII\percistencia de datos\CSV\wLoadFiles\bin\Debug\wLoadFiles.pdb
+I:\Mi unidad\2021-1\HPII\percistencia de datos\CSV\wLoadFiles\obj\Debug\wLoadFiles.csprojAssemblyReference.cache
+I:\Mi unidad\2021-1\HPII\percistencia de datos\CSV\wLoadFiles\obj\Debug\wLoadFiles.Form1.resources
+I:\Mi unidad\2021-1\HPII\percistencia de datos\CSV\wLoadFiles\obj\Debug\wLoadFiles.Properties.Resources.resources
+I:\Mi unidad\2021-1\HPII\percistencia de datos\CSV\wLoadFiles\obj\Debug\wLoadFiles.csproj.GenerateResource.cache
+I:\Mi unidad\2021-1\HPII\percistencia de datos\CSV\wLoadFiles\obj\Debug\wLoadFiles.csproj.CoreCompileInputs.cache
+I:\Mi unidad\2021-1\HPII\percistencia de datos\CSV\wLoadFiles\obj\Debug\wLoadFiles.exe
+I:\Mi unidad\2021-1\HPII\percistencia de datos\CSV\wLoadFiles\obj\Debug\wLoadFiles.pdb

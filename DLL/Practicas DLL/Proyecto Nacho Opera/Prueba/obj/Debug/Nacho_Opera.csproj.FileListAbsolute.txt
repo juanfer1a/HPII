@@ -1,0 +1,15 @@
+C:\Users\David Ciro\source\repos\Prueba\Prueba\bin\Debug\Prueba.exe.config
+C:\Users\David Ciro\source\repos\Prueba\Prueba\bin\Debug\Prueba.exe
+C:\Users\David Ciro\source\repos\Prueba\Prueba\bin\Debug\Prueba.pdb
+C:\Users\David Ciro\source\repos\Prueba\Prueba\bin\Debug\Cls_Suma.dll
+C:\Users\David Ciro\source\repos\Prueba\Prueba\bin\Debug\Division.dll
+C:\Users\David Ciro\source\repos\Prueba\Prueba\bin\Debug\Multiplicacion.dll
+C:\Users\David Ciro\source\repos\Prueba\Prueba\bin\Debug\Resta.dll
+C:\Users\David Ciro\source\repos\Prueba\Prueba\bin\Debug\Multiplicacion.pdb
+C:\Users\David Ciro\source\repos\Prueba\Prueba\obj\Debug\Prueba.frmNacho.resources
+C:\Users\David Ciro\source\repos\Prueba\Prueba\obj\Debug\Prueba.Properties.Resources.resources
+C:\Users\David Ciro\source\repos\Prueba\Prueba\obj\Debug\Nacho_Opera.csproj.GenerateResource.cache
+C:\Users\David Ciro\source\repos\Prueba\Prueba\obj\Debug\Nacho_Opera.csproj.CoreCompileInputs.cache
+C:\Users\David Ciro\source\repos\Prueba\Prueba\obj\Debug\Nacho_Opera.csproj.CopyComplete
+C:\Users\David Ciro\source\repos\Prueba\Prueba\obj\Debug\Prueba.exe
+C:\Users\David Ciro\source\repos\Prueba\Prueba\obj\Debug\Prueba.pdb

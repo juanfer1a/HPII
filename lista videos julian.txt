@@ -1,0 +1,9 @@
+conceptos OOP 16-02 1:25:35
+tiempo de ejecucion 16-03
+timers y recorrido de un objeto en pantalla 18-03
+conexion archivos csv 06-04
+archivo xml y sqlite 08-04
+sqlite2 y access13-04
+
+
+

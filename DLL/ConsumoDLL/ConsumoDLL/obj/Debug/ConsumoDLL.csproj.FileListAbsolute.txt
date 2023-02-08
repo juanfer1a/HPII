@@ -1,0 +1,25 @@
+C:\Users\jgaleano\source\repos\ConsumoDLL\ConsumoDLL\bin\Debug\ConsumoDLL.exe.config
+C:\Users\jgaleano\source\repos\ConsumoDLL\ConsumoDLL\bin\Debug\ConsumoDLL.exe
+C:\Users\jgaleano\source\repos\ConsumoDLL\ConsumoDLL\bin\Debug\ConsumoDLL.pdb
+C:\Users\jgaleano\source\repos\ConsumoDLL\ConsumoDLL\bin\Debug\NachoOpera.dll
+C:\Users\jgaleano\source\repos\ConsumoDLL\ConsumoDLL\bin\Debug\NachoOpera.pdb
+C:\Users\jgaleano\source\repos\ConsumoDLL\ConsumoDLL\obj\Debug\ConsumoDLL.csprojAssemblyReference.cache
+C:\Users\jgaleano\source\repos\ConsumoDLL\ConsumoDLL\obj\Debug\ConsumoDLL.frmOperaciones.resources
+C:\Users\jgaleano\source\repos\ConsumoDLL\ConsumoDLL\obj\Debug\ConsumoDLL.Properties.Resources.resources
+C:\Users\jgaleano\source\repos\ConsumoDLL\ConsumoDLL\obj\Debug\ConsumoDLL.csproj.GenerateResource.cache
+C:\Users\jgaleano\source\repos\ConsumoDLL\ConsumoDLL\obj\Debug\ConsumoDLL.csproj.CoreCompileInputs.cache
+C:\Users\jgaleano\source\repos\ConsumoDLL\ConsumoDLL\obj\Debug\ConsumoDLL.csproj.CopyComplete
+C:\Users\jgaleano\source\repos\ConsumoDLL\ConsumoDLL\obj\Debug\ConsumoDLL.exe
+C:\Users\jgaleano\source\repos\ConsumoDLL\ConsumoDLL\obj\Debug\ConsumoDLL.pdb
+I:\Mi unidad\2021-1\HPII\DLL\ConsumoDLL\ConsumoDLL\bin\Debug\ConsumoDLL.exe.config
+I:\Mi unidad\2021-1\HPII\DLL\ConsumoDLL\ConsumoDLL\bin\Debug\ConsumoDLL.exe
+I:\Mi unidad\2021-1\HPII\DLL\ConsumoDLL\ConsumoDLL\bin\Debug\ConsumoDLL.pdb
+I:\Mi unidad\2021-1\HPII\DLL\ConsumoDLL\ConsumoDLL\bin\Debug\NachoOpera.pdb
+I:\Mi unidad\2021-1\HPII\DLL\ConsumoDLL\ConsumoDLL\obj\Debug\ConsumoDLL.csprojAssemblyReference.cache
+I:\Mi unidad\2021-1\HPII\DLL\ConsumoDLL\ConsumoDLL\obj\Debug\ConsumoDLL.frmOperaciones.resources
+I:\Mi unidad\2021-1\HPII\DLL\ConsumoDLL\ConsumoDLL\obj\Debug\ConsumoDLL.Properties.Resources.resources
+I:\Mi unidad\2021-1\HPII\DLL\ConsumoDLL\ConsumoDLL\obj\Debug\ConsumoDLL.csproj.GenerateResource.cache
+I:\Mi unidad\2021-1\HPII\DLL\ConsumoDLL\ConsumoDLL\obj\Debug\ConsumoDLL.csproj.CoreCompileInputs.cache
+I:\Mi unidad\2021-1\HPII\DLL\ConsumoDLL\ConsumoDLL\obj\Debug\ConsumoDLL.csproj.CopyComplete
+I:\Mi unidad\2021-1\HPII\DLL\ConsumoDLL\ConsumoDLL\obj\Debug\ConsumoDLL.exe
+I:\Mi unidad\2021-1\HPII\DLL\ConsumoDLL\ConsumoDLL\obj\Debug\ConsumoDLL.pdb

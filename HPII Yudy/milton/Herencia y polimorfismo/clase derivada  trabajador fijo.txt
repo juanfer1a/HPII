@@ -1,0 +1,27 @@
+//clase derivada de clase base trabajador
+    class TrabajadorFijo : Trabajador
+    {
+        //constructores
+
+        public TrabajadorFijo()
+        {
+        }
+
+        public TrabajadorFijo(int documento, string nombre, string apellido, string direccion, double salario) : base(documento, nombre, apellido, direccion, salario)
+        {
+        }
+
+        public TrabajadorFijo(int documento, string nombre, string apellido, string direccion, double salario, string jefe) : base(documento, nombre, apellido, direccion, salario, jefe)
+        {
+        }
+
+        //metodo sobreescrito de la clase base object para mostrar los datos 
+
+        public override string ToString()
+        {
+            return $"Documento: {Documento}\nNombre: {Nombre}\nApellido: {Apellido}\nDireccion: {Direccion}\nSalario: {Salario}\n" +
+                   $"Jefe: {Jefe}";
+        }
+    }
+
+

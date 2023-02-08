@@ -1,0 +1,16 @@
+C:\Users\David Ciro\source\repos\AplicacionIntegrada\AplicacionIntegrada\bin\Debug\AplicacionIntegrada.exe.config
+C:\Users\David Ciro\source\repos\AplicacionIntegrada\AplicacionIntegrada\bin\Debug\AplicacionIntegrada.exe
+C:\Users\David Ciro\source\repos\AplicacionIntegrada\AplicacionIntegrada\bin\Debug\AplicacionIntegrada.pdb
+C:\Users\David Ciro\source\repos\AplicacionIntegrada\AplicacionIntegrada\obj\Debug\AplicacionIntegrada.csprojAssemblyReference.cache
+C:\Users\David Ciro\source\repos\AplicacionIntegrada\AplicacionIntegrada\obj\Debug\AplicacionIntegrada.frmArregloMatriz.resources
+C:\Users\David Ciro\source\repos\AplicacionIntegrada\AplicacionIntegrada\obj\Debug\AplicacionIntegrada.Properties.Resources.resources
+C:\Users\David Ciro\source\repos\AplicacionIntegrada\AplicacionIntegrada\obj\Debug\AplicacionIntegrada.csproj.GenerateResource.cache
+C:\Users\David Ciro\source\repos\AplicacionIntegrada\AplicacionIntegrada\obj\Debug\AplicacionIntegrada.csproj.CoreCompileInputs.cache
+C:\Users\David Ciro\source\repos\AplicacionIntegrada\AplicacionIntegrada\obj\Debug\AplicacionIntegrada.exe
+C:\Users\David Ciro\source\repos\AplicacionIntegrada\AplicacionIntegrada\obj\Debug\AplicacionIntegrada.pdb
+C:\Users\David Ciro\source\repos\AplicacionIntegrada\AplicacionIntegrada\bin\Debug\MenorElemento.dll
+C:\Users\David Ciro\source\repos\AplicacionIntegrada\AplicacionIntegrada\bin\Debug\NumeroMayorMatriz.dll
+C:\Users\David Ciro\source\repos\AplicacionIntegrada\AplicacionIntegrada\bin\Debug\operacionSuma.dll
+C:\Users\David Ciro\source\repos\AplicacionIntegrada\AplicacionIntegrada\bin\Debug\PUNTO_1.dll
+C:\Users\David Ciro\source\repos\AplicacionIntegrada\AplicacionIntegrada\bin\Debug\NumeroMayorMatriz.pdb
+C:\Users\David Ciro\source\repos\AplicacionIntegrada\AplicacionIntegrada\obj\Debug\AplicacionIntegrada.csproj.CopyComplete

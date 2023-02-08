@@ -1,0 +1,20 @@
+D:\Ejercicio_Herramientas_Programacion\Recorrido\Recorrido\bin\Debug\Recorrido.exe.config
+D:\Ejercicio_Herramientas_Programacion\Recorrido\Recorrido\bin\Debug\Recorrido.exe
+D:\Ejercicio_Herramientas_Programacion\Recorrido\Recorrido\bin\Debug\Recorrido.pdb
+D:\Ejercicio_Herramientas_Programacion\Recorrido\Recorrido\obj\Debug\Recorrido.csprojAssemblyReference.cache
+D:\Ejercicio_Herramientas_Programacion\Recorrido\Recorrido\obj\Debug\Recorrido.Form1.resources
+D:\Ejercicio_Herramientas_Programacion\Recorrido\Recorrido\obj\Debug\Recorrido.Properties.Resources.resources
+D:\Ejercicio_Herramientas_Programacion\Recorrido\Recorrido\obj\Debug\Recorrido.csproj.GenerateResource.cache
+D:\Ejercicio_Herramientas_Programacion\Recorrido\Recorrido\obj\Debug\Recorrido.csproj.CoreCompileInputs.cache
+D:\Ejercicio_Herramientas_Programacion\Recorrido\Recorrido\obj\Debug\Recorrido.exe
+D:\Ejercicio_Herramientas_Programacion\Recorrido\Recorrido\obj\Debug\Recorrido.pdb
+I:\Mi unidad\2021-1\HPII\Hilos de Procesos\Recorrido\Recorrido\Recorrido\bin\Debug\Recorrido.exe.config
+I:\Mi unidad\2021-1\HPII\Hilos de Procesos\Recorrido\Recorrido\Recorrido\bin\Debug\Recorrido.exe
+I:\Mi unidad\2021-1\HPII\Hilos de Procesos\Recorrido\Recorrido\Recorrido\bin\Debug\Recorrido.pdb
+I:\Mi unidad\2021-1\HPII\Hilos de Procesos\Recorrido\Recorrido\Recorrido\obj\Debug\Recorrido.csprojAssemblyReference.cache
+I:\Mi unidad\2021-1\HPII\Hilos de Procesos\Recorrido\Recorrido\Recorrido\obj\Debug\Recorrido.Form1.resources
+I:\Mi unidad\2021-1\HPII\Hilos de Procesos\Recorrido\Recorrido\Recorrido\obj\Debug\Recorrido.Properties.Resources.resources
+I:\Mi unidad\2021-1\HPII\Hilos de Procesos\Recorrido\Recorrido\Recorrido\obj\Debug\Recorrido.csproj.GenerateResource.cache
+I:\Mi unidad\2021-1\HPII\Hilos de Procesos\Recorrido\Recorrido\Recorrido\obj\Debug\Recorrido.csproj.CoreCompileInputs.cache
+I:\Mi unidad\2021-1\HPII\Hilos de Procesos\Recorrido\Recorrido\Recorrido\obj\Debug\Recorrido.exe
+I:\Mi unidad\2021-1\HPII\Hilos de Procesos\Recorrido\Recorrido\Recorrido\obj\Debug\Recorrido.pdb

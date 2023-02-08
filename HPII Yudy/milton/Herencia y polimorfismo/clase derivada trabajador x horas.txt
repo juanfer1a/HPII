@@ -1,0 +1,53 @@
+//clase derivada de clase base trabajador
+    class TrabajadorXhoras : Trabajador
+    {
+        //atributos
+        double cantHoras;
+        double valorHoraOrdinaria;
+        double valorHoraExtra;
+
+        //constructores
+        public TrabajadorXhoras()
+        {
+        }
+
+        public TrabajadorXhoras(double cantHoras, double valorHoraOrdinaria, double valorHoraExtra)
+        {
+            this.cantHoras = cantHoras;
+            this.valorHoraOrdinaria = valorHoraOrdinaria;
+            this.valorHoraExtra = valorHoraExtra;
+        }
+
+        public TrabajadorXhoras(int documento, string nombre, string apellido, string direccion, double salario, string jefe) : base(documento, nombre, apellido, direccion, salario, jefe)
+        {
+        }
+
+        public double CantHoras { get => cantHoras; set => cantHoras = value; }
+        public double ValorHoraOrdinaria { get => valorHoraOrdinaria; set => valorHoraOrdinaria = value; }
+        public double ValorHoraExtra { get => valorHoraExtra; set => valorHoraExtra = value; }
+
+
+        //metodo sobre escrito heredado la clase base
+        public override void sueldo()
+        {
+            if (CantHoras <= 40)
+            {
+                Salario = CantHoras * valorHoraOrdinaria;
+            }
+            if(cantHoras > 40)
+            {   
+                Salario = valorHoraOrdinaria * 40;
+                Salario += (cantHoras - 40) * valorHoraExtra; 
+            }
+        }
+
+        //metodo sobreescrito de super clase object
+        public override string ToString()
+        {
+            return $"Documento: {Documento}\nNombre: {Nombre}\nApellido: {Apellido}\nDireccion: {Direccion}\nSalario: {Salario}\nJefe: {Jefe}";
+        }
+    }
+
+   
+}
+

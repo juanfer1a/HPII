@@ -1,0 +1,20 @@
+C:\Users\jgaleano\source\repos\paralelismo_2\paralelismo_2\bin\Debug\paralelismo_2.exe.config
+C:\Users\jgaleano\source\repos\paralelismo_2\paralelismo_2\bin\Debug\paralelismo_2.exe
+C:\Users\jgaleano\source\repos\paralelismo_2\paralelismo_2\bin\Debug\paralelismo_2.pdb
+C:\Users\jgaleano\source\repos\paralelismo_2\paralelismo_2\obj\Debug\paralelismo_2.csprojAssemblyReference.cache
+C:\Users\jgaleano\source\repos\paralelismo_2\paralelismo_2\obj\Debug\paralelismo_2.Form1.resources
+C:\Users\jgaleano\source\repos\paralelismo_2\paralelismo_2\obj\Debug\paralelismo_2.Properties.Resources.resources
+C:\Users\jgaleano\source\repos\paralelismo_2\paralelismo_2\obj\Debug\paralelismo_2.csproj.GenerateResource.cache
+C:\Users\jgaleano\source\repos\paralelismo_2\paralelismo_2\obj\Debug\paralelismo_2.csproj.CoreCompileInputs.cache
+C:\Users\jgaleano\source\repos\paralelismo_2\paralelismo_2\obj\Debug\paralelismo_2.exe
+C:\Users\jgaleano\source\repos\paralelismo_2\paralelismo_2\obj\Debug\paralelismo_2.pdb
+I:\Mi unidad\2021-1\HPII\Paralelismo\paralelismo_2\paralelismo_2\bin\Debug\paralelismo_2.exe.config
+I:\Mi unidad\2021-1\HPII\Paralelismo\paralelismo_2\paralelismo_2\bin\Debug\paralelismo_2.exe
+I:\Mi unidad\2021-1\HPII\Paralelismo\paralelismo_2\paralelismo_2\bin\Debug\paralelismo_2.pdb
+I:\Mi unidad\2021-1\HPII\Paralelismo\paralelismo_2\paralelismo_2\obj\Debug\paralelismo_2.csprojAssemblyReference.cache
+I:\Mi unidad\2021-1\HPII\Paralelismo\paralelismo_2\paralelismo_2\obj\Debug\paralelismo_2.Form1.resources
+I:\Mi unidad\2021-1\HPII\Paralelismo\paralelismo_2\paralelismo_2\obj\Debug\paralelismo_2.Properties.Resources.resources
+I:\Mi unidad\2021-1\HPII\Paralelismo\paralelismo_2\paralelismo_2\obj\Debug\paralelismo_2.csproj.GenerateResource.cache
+I:\Mi unidad\2021-1\HPII\Paralelismo\paralelismo_2\paralelismo_2\obj\Debug\paralelismo_2.csproj.CoreCompileInputs.cache
+I:\Mi unidad\2021-1\HPII\Paralelismo\paralelismo_2\paralelismo_2\obj\Debug\paralelismo_2.exe
+I:\Mi unidad\2021-1\HPII\Paralelismo\paralelismo_2\paralelismo_2\obj\Debug\paralelismo_2.pdb

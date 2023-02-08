@@ -1,0 +1,13 @@
+C:\Users\ferch\source\repos\TallerHerenciaPolimorfismoMiltonPaniagua\obj\Debug\netcoreapp3.1\TallerHerenciaPolimorfismoMiltonPaniagua.csprojAssemblyReference.cache
+C:\Users\ferch\source\repos\TallerHerenciaPolimorfismoMiltonPaniagua\obj\Debug\netcoreapp3.1\TallerHerenciaPolimorfismoMiltonPaniagua.AssemblyInfoInputs.cache
+C:\Users\ferch\source\repos\TallerHerenciaPolimorfismoMiltonPaniagua\obj\Debug\netcoreapp3.1\TallerHerenciaPolimorfismoMiltonPaniagua.AssemblyInfo.cs
+C:\Users\ferch\source\repos\TallerHerenciaPolimorfismoMiltonPaniagua\obj\Debug\netcoreapp3.1\TallerHerenciaPolimorfismoMiltonPaniagua.csproj.CoreCompileInputs.cache
+C:\Users\ferch\source\repos\TallerHerenciaPolimorfismoMiltonPaniagua\bin\Debug\netcoreapp3.1\TallerHerenciaPolimorfismoMiltonPaniagua.exe
+C:\Users\ferch\source\repos\TallerHerenciaPolimorfismoMiltonPaniagua\bin\Debug\netcoreapp3.1\TallerHerenciaPolimorfismoMiltonPaniagua.deps.json
+C:\Users\ferch\source\repos\TallerHerenciaPolimorfismoMiltonPaniagua\bin\Debug\netcoreapp3.1\TallerHerenciaPolimorfismoMiltonPaniagua.runtimeconfig.json
+C:\Users\ferch\source\repos\TallerHerenciaPolimorfismoMiltonPaniagua\bin\Debug\netcoreapp3.1\TallerHerenciaPolimorfismoMiltonPaniagua.runtimeconfig.dev.json
+C:\Users\ferch\source\repos\TallerHerenciaPolimorfismoMiltonPaniagua\bin\Debug\netcoreapp3.1\TallerHerenciaPolimorfismoMiltonPaniagua.dll
+C:\Users\ferch\source\repos\TallerHerenciaPolimorfismoMiltonPaniagua\bin\Debug\netcoreapp3.1\TallerHerenciaPolimorfismoMiltonPaniagua.pdb
+C:\Users\ferch\source\repos\TallerHerenciaPolimorfismoMiltonPaniagua\obj\Debug\netcoreapp3.1\TallerHerenciaPolimorfismoMiltonPaniagua.dll
+C:\Users\ferch\source\repos\TallerHerenciaPolimorfismoMiltonPaniagua\obj\Debug\netcoreapp3.1\TallerHerenciaPolimorfismoMiltonPaniagua.pdb
+C:\Users\ferch\source\repos\TallerHerenciaPolimorfismoMiltonPaniagua\obj\Debug\netcoreapp3.1\TallerHerenciaPolimorfismoMiltonPaniagua.genruntimeconfig.cache

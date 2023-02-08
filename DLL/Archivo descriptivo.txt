@@ -1,0 +1,5 @@
+Para el programa nacho opera trabajamos:
+David Alejandro Ciro Ortiz. A cargo de la multipicaion 
+Jocelyn Mishel Perez Castro. Acargo de la resta
+Felipe Monsalve. Acargo de la suma
+Juan Fernando Quiceno Velasquez Acargo de la division.

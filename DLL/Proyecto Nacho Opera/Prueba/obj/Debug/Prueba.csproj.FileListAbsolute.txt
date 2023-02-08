@@ -1,0 +1,41 @@
+C:\Users\David Ciro\source\repos\Prueba\Prueba\bin\Debug\Prueba.exe.config
+C:\Users\David Ciro\source\repos\Prueba\Prueba\bin\Debug\Prueba.exe
+C:\Users\David Ciro\source\repos\Prueba\Prueba\bin\Debug\Prueba.pdb
+C:\Users\David Ciro\source\repos\Prueba\Prueba\obj\Debug\Prueba.csprojAssemblyReference.cache
+C:\Users\David Ciro\source\repos\Prueba\Prueba\obj\Debug\Prueba.Properties.Resources.resources
+C:\Users\David Ciro\source\repos\Prueba\Prueba\obj\Debug\Prueba.csproj.GenerateResource.cache
+C:\Users\David Ciro\source\repos\Prueba\Prueba\obj\Debug\Prueba.csproj.CoreCompileInputs.cache
+C:\Users\David Ciro\source\repos\Prueba\Prueba\obj\Debug\Prueba.csproj.CopyComplete
+C:\Users\David Ciro\source\repos\Prueba\Prueba\obj\Debug\Prueba.exe
+C:\Users\David Ciro\source\repos\Prueba\Prueba\obj\Debug\Prueba.pdb
+C:\Users\David Ciro\source\repos\Prueba\Prueba\bin\Debug\Multiplicacion.dll
+C:\Users\David Ciro\source\repos\Prueba\Prueba\bin\Debug\Multiplicacion.pdb
+C:\Users\David Ciro\source\repos\Prueba\Prueba\bin\Debug\Cls_Suma.dll
+C:\Users\David Ciro\source\repos\Prueba\Prueba\bin\Debug\Resta.dll
+C:\Users\David Ciro\source\repos\Prueba\Prueba\bin\Debug\Division.dll
+C:\Users\David Ciro\source\repos\Prueba\Prueba\obj\Debug\Prueba.Form1.resources
+I:\Mi unidad\2021-1\HPII\Proyecto Nacho Opera\Prueba\bin\Debug\Prueba.exe.config
+I:\Mi unidad\2021-1\HPII\Proyecto Nacho Opera\Prueba\bin\Debug\Prueba.exe
+I:\Mi unidad\2021-1\HPII\Proyecto Nacho Opera\Prueba\bin\Debug\Prueba.pdb
+I:\Mi unidad\2021-1\HPII\Proyecto Nacho Opera\Prueba\bin\Debug\OperacionDiv.dll
+I:\Mi unidad\2021-1\HPII\Proyecto Nacho Opera\Prueba\bin\Debug\Multiplicacion.pdb
+I:\Mi unidad\2021-1\HPII\Proyecto Nacho Opera\Prueba\obj\Debug\Prueba.csprojAssemblyReference.cache
+I:\Mi unidad\2021-1\HPII\Proyecto Nacho Opera\Prueba\obj\Debug\Prueba.frmNacho.resources
+I:\Mi unidad\2021-1\HPII\Proyecto Nacho Opera\Prueba\obj\Debug\Prueba.Properties.Resources.resources
+I:\Mi unidad\2021-1\HPII\Proyecto Nacho Opera\Prueba\obj\Debug\Prueba.csproj.GenerateResource.cache
+I:\Mi unidad\2021-1\HPII\Proyecto Nacho Opera\Prueba\obj\Debug\Prueba.csproj.CoreCompileInputs.cache
+I:\Mi unidad\2021-1\HPII\Proyecto Nacho Opera\Prueba\obj\Debug\Prueba.csproj.CopyComplete
+I:\Mi unidad\2021-1\HPII\Proyecto Nacho Opera\Prueba\obj\Debug\Prueba.exe
+I:\Mi unidad\2021-1\HPII\Proyecto Nacho Opera\Prueba\obj\Debug\Prueba.pdb
+I:\Mi unidad\2021-1\HPII\DLL\Proyecto Nacho Opera\Prueba\bin\Debug\Prueba.exe.config
+I:\Mi unidad\2021-1\HPII\DLL\Proyecto Nacho Opera\Prueba\bin\Debug\Prueba.exe
+I:\Mi unidad\2021-1\HPII\DLL\Proyecto Nacho Opera\Prueba\bin\Debug\Prueba.pdb
+I:\Mi unidad\2021-1\HPII\DLL\Proyecto Nacho Opera\Prueba\bin\Debug\Multiplicacion.pdb
+I:\Mi unidad\2021-1\HPII\DLL\Proyecto Nacho Opera\Prueba\obj\Debug\Prueba.csprojAssemblyReference.cache
+I:\Mi unidad\2021-1\HPII\DLL\Proyecto Nacho Opera\Prueba\obj\Debug\Prueba.frmNacho.resources
+I:\Mi unidad\2021-1\HPII\DLL\Proyecto Nacho Opera\Prueba\obj\Debug\Prueba.Properties.Resources.resources
+I:\Mi unidad\2021-1\HPII\DLL\Proyecto Nacho Opera\Prueba\obj\Debug\Prueba.csproj.GenerateResource.cache
+I:\Mi unidad\2021-1\HPII\DLL\Proyecto Nacho Opera\Prueba\obj\Debug\Prueba.csproj.CoreCompileInputs.cache
+I:\Mi unidad\2021-1\HPII\DLL\Proyecto Nacho Opera\Prueba\obj\Debug\Prueba.csproj.CopyComplete
+I:\Mi unidad\2021-1\HPII\DLL\Proyecto Nacho Opera\Prueba\obj\Debug\Prueba.exe
+I:\Mi unidad\2021-1\HPII\DLL\Proyecto Nacho Opera\Prueba\obj\Debug\Prueba.pdb

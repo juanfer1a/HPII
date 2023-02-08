@@ -1,0 +1,19 @@
+C:\Users\jgaleano\source\repos\Paralelismo\Paralelismo\bin\Debug\Paralelismo.exe.config
+C:\Users\jgaleano\source\repos\Paralelismo\Paralelismo\bin\Debug\Paralelismo.exe
+C:\Users\jgaleano\source\repos\Paralelismo\Paralelismo\bin\Debug\Paralelismo.pdb
+C:\Users\jgaleano\source\repos\Paralelismo\Paralelismo\obj\Debug\Paralelismo.Form1.resources
+C:\Users\jgaleano\source\repos\Paralelismo\Paralelismo\obj\Debug\Paralelismo.Properties.Resources.resources
+C:\Users\jgaleano\source\repos\Paralelismo\Paralelismo\obj\Debug\Paralelismo.csproj.GenerateResource.cache
+C:\Users\jgaleano\source\repos\Paralelismo\Paralelismo\obj\Debug\Paralelismo.csproj.CoreCompileInputs.cache
+C:\Users\jgaleano\source\repos\Paralelismo\Paralelismo\obj\Debug\Paralelismo.exe
+C:\Users\jgaleano\source\repos\Paralelismo\Paralelismo\obj\Debug\Paralelismo.pdb
+I:\Mi unidad\2021-1\HPII\Paralelismo\Paralelismo\Paralelismo\bin\Debug\Paralelismo.exe.config
+I:\Mi unidad\2021-1\HPII\Paralelismo\Paralelismo\Paralelismo\bin\Debug\Paralelismo.exe
+I:\Mi unidad\2021-1\HPII\Paralelismo\Paralelismo\Paralelismo\bin\Debug\Paralelismo.pdb
+I:\Mi unidad\2021-1\HPII\Paralelismo\Paralelismo\Paralelismo\obj\Debug\Paralelismo.csprojAssemblyReference.cache
+I:\Mi unidad\2021-1\HPII\Paralelismo\Paralelismo\Paralelismo\obj\Debug\Paralelismo.Form1.resources
+I:\Mi unidad\2021-1\HPII\Paralelismo\Paralelismo\Paralelismo\obj\Debug\Paralelismo.Properties.Resources.resources
+I:\Mi unidad\2021-1\HPII\Paralelismo\Paralelismo\Paralelismo\obj\Debug\Paralelismo.csproj.GenerateResource.cache
+I:\Mi unidad\2021-1\HPII\Paralelismo\Paralelismo\Paralelismo\obj\Debug\Paralelismo.csproj.CoreCompileInputs.cache
+I:\Mi unidad\2021-1\HPII\Paralelismo\Paralelismo\Paralelismo\obj\Debug\Paralelismo.exe
+I:\Mi unidad\2021-1\HPII\Paralelismo\Paralelismo\Paralelismo\obj\Debug\Paralelismo.pdb

@@ -1,0 +1,34 @@
+D:\Pascual\2021_1\Herramientas_Grupo_Lunes\AgendaApp\AgendaApp\bin\Debug\AgendaApp.exe.config
+D:\Pascual\2021_1\Herramientas_Grupo_Lunes\AgendaApp\AgendaApp\bin\Debug\AgendaApp.exe
+D:\Pascual\2021_1\Herramientas_Grupo_Lunes\AgendaApp\AgendaApp\bin\Debug\AgendaApp.pdb
+D:\Pascual\2021_1\Herramientas_Grupo_Lunes\AgendaApp\AgendaApp\bin\Debug\MaterialSkin.dll
+D:\Pascual\2021_1\Herramientas_Grupo_Lunes\AgendaApp\AgendaApp\obj\Debug\AgendaApp.csprojAssemblyReference.cache
+D:\Pascual\2021_1\Herramientas_Grupo_Lunes\AgendaApp\AgendaApp\obj\Debug\AgendaApp.Form1.resources
+D:\Pascual\2021_1\Herramientas_Grupo_Lunes\AgendaApp\AgendaApp\obj\Debug\AgendaApp.frmActualizar.resources
+D:\Pascual\2021_1\Herramientas_Grupo_Lunes\AgendaApp\AgendaApp\obj\Debug\AgendaApp.frmAgregar.resources
+D:\Pascual\2021_1\Herramientas_Grupo_Lunes\AgendaApp\AgendaApp\obj\Debug\AgendaApp.frmBuscar.resources
+D:\Pascual\2021_1\Herramientas_Grupo_Lunes\AgendaApp\AgendaApp\obj\Debug\AgendaApp.Properties.Resources.resources
+D:\Pascual\2021_1\Herramientas_Grupo_Lunes\AgendaApp\AgendaApp\obj\Debug\AgendaApp.csproj.GenerateResource.cache
+D:\Pascual\2021_1\Herramientas_Grupo_Lunes\AgendaApp\AgendaApp\obj\Debug\AgendaApp.csproj.CoreCompileInputs.cache
+D:\Pascual\2021_1\Herramientas_Grupo_Lunes\AgendaApp\AgendaApp\obj\Debug\AgendaApp.csproj.CopyComplete
+D:\Pascual\2021_1\Herramientas_Grupo_Lunes\AgendaApp\AgendaApp\obj\Debug\AgendaApp.exe
+D:\Pascual\2021_1\Herramientas_Grupo_Lunes\AgendaApp\AgendaApp\obj\Debug\AgendaApp.pdb
+D:\Pascual\2021_1\Herramientas_Grupo_Lunes\AgendaApp\AgendaApp\obj\Debug\AgendaApp.frmEliminar.resources
+D:\Pascual\2021_1\Herramientas_Grupo_Lunes\AgendaApp\AgendaApp\obj\Debug\AgendaApp.frmListar.resources
+G:\Mi unidad\2021-1\HPII\HPII Yudy\AgendaApp\AgendaApp\bin\Debug\AgendaApp.exe.config
+G:\Mi unidad\2021-1\HPII\HPII Yudy\AgendaApp\AgendaApp\bin\Debug\AgendaApp.exe
+G:\Mi unidad\2021-1\HPII\HPII Yudy\AgendaApp\AgendaApp\bin\Debug\AgendaApp.pdb
+G:\Mi unidad\2021-1\HPII\HPII Yudy\AgendaApp\AgendaApp\bin\Debug\MaterialSkin.dll
+G:\Mi unidad\2021-1\HPII\HPII Yudy\AgendaApp\AgendaApp\obj\Debug\AgendaApp.csprojAssemblyReference.cache
+G:\Mi unidad\2021-1\HPII\HPII Yudy\AgendaApp\AgendaApp\obj\Debug\AgendaApp.Form1.resources
+G:\Mi unidad\2021-1\HPII\HPII Yudy\AgendaApp\AgendaApp\obj\Debug\AgendaApp.frmActualizar.resources
+G:\Mi unidad\2021-1\HPII\HPII Yudy\AgendaApp\AgendaApp\obj\Debug\AgendaApp.frmAgregar.resources
+G:\Mi unidad\2021-1\HPII\HPII Yudy\AgendaApp\AgendaApp\obj\Debug\AgendaApp.frmBuscar.resources
+G:\Mi unidad\2021-1\HPII\HPII Yudy\AgendaApp\AgendaApp\obj\Debug\AgendaApp.frmEliminar.resources
+G:\Mi unidad\2021-1\HPII\HPII Yudy\AgendaApp\AgendaApp\obj\Debug\AgendaApp.frmListar.resources
+G:\Mi unidad\2021-1\HPII\HPII Yudy\AgendaApp\AgendaApp\obj\Debug\AgendaApp.Properties.Resources.resources
+G:\Mi unidad\2021-1\HPII\HPII Yudy\AgendaApp\AgendaApp\obj\Debug\AgendaApp.csproj.GenerateResource.cache
+G:\Mi unidad\2021-1\HPII\HPII Yudy\AgendaApp\AgendaApp\obj\Debug\AgendaApp.csproj.CoreCompileInputs.cache
+G:\Mi unidad\2021-1\HPII\HPII Yudy\AgendaApp\AgendaApp\obj\Debug\AgendaApp.csproj.CopyComplete
+G:\Mi unidad\2021-1\HPII\HPII Yudy\AgendaApp\AgendaApp\obj\Debug\AgendaApp.exe
+G:\Mi unidad\2021-1\HPII\HPII Yudy\AgendaApp\AgendaApp\obj\Debug\AgendaApp.pdb

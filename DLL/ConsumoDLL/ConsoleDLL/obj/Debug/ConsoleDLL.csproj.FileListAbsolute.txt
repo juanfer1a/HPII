@@ -1,0 +1,9 @@
+C:\Users\jgaleano\source\repos\ConsumoDLL\ConsoleDLL\bin\Debug\ConsoleDLL.exe.config
+C:\Users\jgaleano\source\repos\ConsumoDLL\ConsoleDLL\bin\Debug\ConsoleDLL.exe
+C:\Users\jgaleano\source\repos\ConsumoDLL\ConsoleDLL\bin\Debug\ConsoleDLL.pdb
+C:\Users\jgaleano\source\repos\ConsumoDLL\ConsoleDLL\obj\Debug\ConsoleDLL.csproj.CoreCompileInputs.cache
+C:\Users\jgaleano\source\repos\ConsumoDLL\ConsoleDLL\obj\Debug\ConsoleDLL.exe
+C:\Users\jgaleano\source\repos\ConsumoDLL\ConsoleDLL\obj\Debug\ConsoleDLL.pdb
+C:\Users\jgaleano\source\repos\ConsumoDLL\ConsoleDLL\bin\Debug\NachoOpera.dll
+C:\Users\jgaleano\source\repos\ConsumoDLL\ConsoleDLL\bin\Debug\NachoOpera.pdb
+C:\Users\jgaleano\source\repos\ConsumoDLL\ConsoleDLL\obj\Debug\ConsoleDLL.csproj.CopyComplete

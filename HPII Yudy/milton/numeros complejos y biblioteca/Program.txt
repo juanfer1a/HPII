@@ -1,0 +1,126 @@
+﻿using System;
+
+namespace OperacionesNumerosComplejos
+{
+    class Program
+    {
+        /// <summary>
+        /// programa que realiza operacione matematicas con numeros complejos
+        /// relizado por Milton Paniagua
+        /// </summary>
+        /// <param name="args"></param>
+        static void Main(string[] args)
+        {
+            
+            Complejos complejos;
+            Complejos complejos1;
+            int opcion = 1;
+            try
+            {
+                while (opcion != 0)
+                {
+                    Console.WriteLine("**************************************************************");
+                    Console.WriteLine("OPERACIONES CON NUMEROS COMPLEJOS");
+                    Console.WriteLine("ELIJA LA OPERACION QUE DESEA REALIZAR");
+                    Console.WriteLine("1. SUMA");
+                    Console.WriteLine("2. RESTA");
+                    Console.WriteLine("3. MULTIPLICACION DE DOS COMPLEJOS");
+                    Console.WriteLine("4. MULTIPLICACION DE UN COMPLEJO X UN DOUBLE");
+                    Console.WriteLine("5. DIVISION");
+                    Console.WriteLine("0. SALIR");
+                    Console.WriteLine("**************************************************************");
+                    opcion = int.Parse(Console.ReadLine());
+
+                    switch (opcion)
+                    {
+                        case 1:
+                            {
+                                ingresarDatos();
+                                complejos.suma(complejos, complejos1);
+                                Console.WriteLine($"El resultado de la suma es :({complejos.A.ToString()}  ,  {complejos.B.ToString()})");
+                                Console.ReadKey();
+                                Console.Clear();
+                                break;
+                            }
+                        case 2:
+                            {
+                                ingresarDatos();
+                                complejos.resta(complejos, complejos1);
+                                Console.WriteLine($"El resultado de la resta es :({complejos.A.ToString()}  ,  {complejos.B.ToString()})");
+                                Console.ReadKey();
+                                Console.Clear();
+                                break;
+                            }
+
+                        case 3:
+                            {
+                                ingresarDatos();
+                                complejos.multiplicacion(complejos, complejos1);
+                                Console.WriteLine($"El resultado de la multiplicacion es :({complejos.A.ToString()}  ,  {complejos.B.ToString()})");
+                                Console.ReadKey();
+                                Console.Clear();
+                                break;
+                            }
+                        case 4:
+                            {
+                                double dato1;
+                                double dato2;
+                                Console.WriteLine("Ingrese los datos del numero compuesto");
+                                Console.WriteLine("Ingrese el numero real");
+                                dato1 = double.Parse(Console.ReadLine());
+                                Console.WriteLine("Ingrese el numero imaginario");
+                                dato2 = double.Parse(Console.ReadLine());
+                                complejos = new Complejos(dato1, dato2);
+                                Console.WriteLine("Ingrese el numero tipo double por el cual va a multiplicar");
+                                dato1 = double.Parse(Console.ReadLine());
+                                complejos.multiDouble(complejos, dato1);
+                                Console.WriteLine($"El resultado de la multiplicacion es :({complejos.A.ToString()}  ,  {complejos.B.ToString()})");
+                                Console.ReadKey();
+                                Console.Clear();
+                                break;
+                            }
+                        case 5:
+                            {
+                                ingresarDatos();
+                                complejos.division(complejos, complejos1);
+                                Console.WriteLine($"El resultado de la division es :({complejos.A.ToString()}  ,  {complejos.B.ToString()})");
+                                Console.ReadKey();
+                                Console.Clear();
+                                break;
+                            }
+                    }
+
+                }
+            }
+            catch (Exception e)
+            {
+
+                Console.WriteLine(e.Message);
+            }
+
+
+
+            //meodo para ingresar datos
+            void ingresarDatos()
+            {
+                double dato1;
+                double dato2;
+                Console.WriteLine("Ingrese los datos del primer numero compuesto");
+                Console.WriteLine("Ingrese el numero real");
+                dato1 = double.Parse(Console.ReadLine());
+                Console.WriteLine("Ingrese el numero imaginario");
+                dato2 = double.Parse(Console.ReadLine());
+                complejos = new Complejos(dato1, dato2);
+                Console.WriteLine("Ingrese los datos del segundo numero compuesto");
+                Console.WriteLine("Ingrese el numero real");
+                dato1 = double.Parse(Console.ReadLine());
+                Console.WriteLine("Ingrese el numero imaginario");
+                dato2 = double.Parse(Console.ReadLine());
+                complejos1 = new Complejos(dato1, dato2);
+            }
+        }
+
+
+    }
+}
+

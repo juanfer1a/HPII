@@ -1,0 +1,18 @@
+C:\Users\TodakarHD\AppData\Local\Temporary Projects\ConexionSQLite\bin\Debug\ConexionSQLite.exe.config
+C:\Users\TodakarHD\AppData\Local\Temporary Projects\ConexionSQLite\bin\Debug\ConexionSQLite.exe
+C:\Users\TodakarHD\AppData\Local\Temporary Projects\ConexionSQLite\bin\Debug\ConexionSQLite.pdb
+C:\Users\TodakarHD\AppData\Local\Temporary Projects\ConexionSQLite\obj\Debug\ConexionSQLite.csprojResolveAssemblyReference.cache
+C:\Users\TodakarHD\AppData\Local\Temporary Projects\ConexionSQLite\obj\Debug\ConexionSQLite.Form1.resources
+C:\Users\TodakarHD\AppData\Local\Temporary Projects\ConexionSQLite\obj\Debug\ConexionSQLite.Properties.Resources.resources
+C:\Users\TodakarHD\AppData\Local\Temporary Projects\ConexionSQLite\obj\Debug\ConexionSQLite.csproj.GenerateResource.Cache
+C:\Users\TodakarHD\AppData\Local\Temporary Projects\ConexionSQLite\obj\Debug\ConexionSQLite.exe
+C:\Users\TodakarHD\AppData\Local\Temporary Projects\ConexionSQLite\obj\Debug\ConexionSQLite.pdb
+C:\Users\TodakarHD\Documents\Visual Studio 2012\Projects\ConexionSQLite\ConexionSQLite\bin\Debug\ConexionSQLite.exe.config
+C:\Users\TodakarHD\Documents\Visual Studio 2012\Projects\ConexionSQLite\ConexionSQLite\obj\Debug\ConexionSQLite.exe
+C:\Users\TodakarHD\Documents\Visual Studio 2012\Projects\ConexionSQLite\ConexionSQLite\obj\Debug\ConexionSQLite.pdb
+C:\Users\TodakarHD\Documents\Visual Studio 2012\Projects\ConexionSQLite\ConexionSQLite\bin\Debug\ConexionSQLite.exe
+C:\Users\TodakarHD\Documents\Visual Studio 2012\Projects\ConexionSQLite\ConexionSQLite\bin\Debug\ConexionSQLite.pdb
+C:\Users\TodakarHD\Documents\Visual Studio 2012\Projects\ConexionSQLite\ConexionSQLite\obj\Debug\ConexionSQLite.csprojResolveAssemblyReference.cache
+C:\Users\TodakarHD\Documents\Visual Studio 2012\Projects\ConexionSQLite\ConexionSQLite\obj\Debug\ConexionSQLite.Form1.resources
+C:\Users\TodakarHD\Documents\Visual Studio 2012\Projects\ConexionSQLite\ConexionSQLite\obj\Debug\ConexionSQLite.Properties.Resources.resources
+C:\Users\TodakarHD\Documents\Visual Studio 2012\Projects\ConexionSQLite\ConexionSQLite\obj\Debug\ConexionSQLite.csproj.GenerateResource.Cache

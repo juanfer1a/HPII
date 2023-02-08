@@ -1,0 +1,22 @@
+C:\Users\jgaleano\source\repos\TiempoExe\TiempoExe\bin\Debug\TiempoExe.exe.config
+C:\Users\jgaleano\source\repos\TiempoExe\TiempoExe\bin\Debug\TiempoExe.exe
+C:\Users\jgaleano\source\repos\TiempoExe\TiempoExe\bin\Debug\TiempoExe.pdb
+C:\Users\jgaleano\source\repos\TiempoExe\TiempoExe\obj\Debug\TiempoExe.csprojAssemblyReference.cache
+C:\Users\jgaleano\source\repos\TiempoExe\TiempoExe\obj\Debug\TiempoExe.Form1.resources
+C:\Users\jgaleano\source\repos\TiempoExe\TiempoExe\obj\Debug\TiempoExe.Properties.Resources.resources
+C:\Users\jgaleano\source\repos\TiempoExe\TiempoExe\obj\Debug\TiempoExe.csproj.GenerateResource.cache
+C:\Users\jgaleano\source\repos\TiempoExe\TiempoExe\obj\Debug\TiempoExe.csproj.CoreCompileInputs.cache
+C:\Users\jgaleano\source\repos\TiempoExe\TiempoExe\obj\Debug\TiempoExe.exe
+C:\Users\jgaleano\source\repos\TiempoExe\TiempoExe\obj\Debug\TiempoExe.pdb
+C:\Users\jgaleano\source\repos\TiempoExe\TiempoExe\obj\Debug\TiempoExe.frmMulti.resources
+I:\Mi unidad\2021-1\HPII\TIempo de ejecucion\TiempoExe\bin\Debug\TiempoExe.exe.config
+I:\Mi unidad\2021-1\HPII\TIempo de ejecucion\TiempoExe\bin\Debug\TiempoExe.exe
+I:\Mi unidad\2021-1\HPII\TIempo de ejecucion\TiempoExe\bin\Debug\TiempoExe.pdb
+I:\Mi unidad\2021-1\HPII\TIempo de ejecucion\TiempoExe\obj\Debug\TiempoExe.csprojAssemblyReference.cache
+I:\Mi unidad\2021-1\HPII\TIempo de ejecucion\TiempoExe\obj\Debug\TiempoExe.Form1.resources
+I:\Mi unidad\2021-1\HPII\TIempo de ejecucion\TiempoExe\obj\Debug\TiempoExe.frmMulti.resources
+I:\Mi unidad\2021-1\HPII\TIempo de ejecucion\TiempoExe\obj\Debug\TiempoExe.Properties.Resources.resources
+I:\Mi unidad\2021-1\HPII\TIempo de ejecucion\TiempoExe\obj\Debug\TiempoExe.csproj.GenerateResource.cache
+I:\Mi unidad\2021-1\HPII\TIempo de ejecucion\TiempoExe\obj\Debug\TiempoExe.csproj.CoreCompileInputs.cache
+I:\Mi unidad\2021-1\HPII\TIempo de ejecucion\TiempoExe\obj\Debug\TiempoExe.exe
+I:\Mi unidad\2021-1\HPII\TIempo de ejecucion\TiempoExe\obj\Debug\TiempoExe.pdb

@@ -1,0 +1,10 @@
+C:\Users\ferch\source\repos\Metodos_Propiedades\bin\Debug\Metodos_Propiedades.exe.config
+C:\Users\ferch\source\repos\Metodos_Propiedades\bin\Debug\Metodos_Propiedades.exe
+C:\Users\ferch\source\repos\Metodos_Propiedades\bin\Debug\Metodos_Propiedades.pdb
+C:\Users\ferch\source\repos\Metodos_Propiedades\obj\Debug\Metodos_Propiedades.csprojAssemblyReference.cache
+C:\Users\ferch\source\repos\Metodos_Propiedades\obj\Debug\Metodos_Propiedades.Properties.Resources.resources
+C:\Users\ferch\source\repos\Metodos_Propiedades\obj\Debug\Metodos_Propiedades.csproj.GenerateResource.cache
+C:\Users\ferch\source\repos\Metodos_Propiedades\obj\Debug\Metodos_Propiedades.csproj.CoreCompileInputs.cache
+C:\Users\ferch\source\repos\Metodos_Propiedades\obj\Debug\Metodos_Propiedades.exe
+C:\Users\ferch\source\repos\Metodos_Propiedades\obj\Debug\Metodos_Propiedades.pdb
+C:\Users\ferch\source\repos\Metodos_Propiedades\obj\Debug\Metodos_Propiedades.FrmLineas.resources

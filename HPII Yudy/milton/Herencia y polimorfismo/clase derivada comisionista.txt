@@ -1,0 +1,43 @@
+//clase derivada de clase base trabajador
+    class Comisiones :Trabajador
+    {
+        //atributos 
+        double ventas;
+        double porcentaje;
+        
+        //propiedades de campos
+        public double Ventas { get => ventas; set => ventas = value; }
+        public double Porcentaje { get => porcentaje; set => porcentaje = value; }
+
+        //constructores
+        public Comisiones()
+        {
+        }
+        public Comisiones(double ventas, double porcentaje)
+        {
+            this.ventas = ventas;
+            this.porcentaje = porcentaje/100;
+        }
+
+
+        public Comisiones(int documento, string nombre, string apellido, string direccion, double salario, string jefe) : base(documento, nombre, apellido, direccion, salario, jefe)
+        {
+        }
+
+        //sobreescritura de metodo heredado de clase base
+        public override void sueldo()
+        {
+               
+            Salario = ventas * porcentaje;
+        }
+
+
+        //sebreescritura de metodo string de super clase objet
+        public override string ToString()
+        {
+            return $"Documento: {Documento}\nNombre: {Nombre}\nApellido: {Apellido}\nDireccion: {Direccion}\nSalario: {Salario}\nJefe: {Jefe}";
+        }
+
+
+    }
+

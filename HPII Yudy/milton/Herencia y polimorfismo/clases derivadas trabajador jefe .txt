@@ -1,0 +1,17 @@
+class TrabajadorJefe : TrabajadorFijo
+    {
+        public TrabajadorJefe()
+        {
+        }
+
+        public TrabajadorJefe(int documento, string nombre, string apellido, string direccion, double salario) : base(documento, nombre, apellido, direccion, salario)
+        {
+        }
+
+        public override string ToString()
+        {
+            return $"Documento: {Documento}\nNombre: {Nombre}\nApellido: {Apellido}\nDireccion: {Direccion}\nSalario: {Salario}\n";
+        }
+
+    }
+

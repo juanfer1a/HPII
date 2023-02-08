@@ -1,0 +1,71 @@
+﻿using System;
+using System.Collections.Generic;
+using System.Text;
+
+namespace OperacionesNumerosComplejos
+{
+    class Complejos
+    {
+        //Atributos 
+        double a;
+        double b;
+
+        //Constructor
+        public Complejos()
+        {
+            this.a = 0;
+            this.b = 0;
+        }
+
+        public Complejos(double a, double b)
+        {
+            this.a = a;
+            this.b = b;
+        }
+
+        //Propiedades
+        public double A { get => a; set => a = value; }
+        public double B { get => b; set => b = value; }
+
+        //Metodos
+        public Complejos suma(Complejos c1, Complejos c2)
+        {
+            c1.a += c2.a;
+            c1.b += c2.b;
+            return c1;
+        }
+
+        public Complejos resta(Complejos c1, Complejos c2)
+        {
+            c1.a -= c2.a;
+            c1.b -= c2.b;
+            return c1;
+        }
+
+        public Complejos multiplicacion(Complejos c1, Complejos c2)
+        {
+            Complejos m = new Complejos(); 
+            m.a = (c1.a * c2.a) - (c1.b * c2.b);           
+            c1.b = (c1.a * c2.b) + (c1.b * c2.a);
+            c1.a = m.a;
+            return c1;
+        }
+
+        public Complejos multiDouble(Complejos c1, double n)
+        {
+            c1.a *= n;
+            c1.b *= n;
+            return c1;
+        }
+
+        public Complejos division(Complejos c1, Complejos c2)
+        {
+            Complejos d = new Complejos();
+            d.a = ((c1.a * c2.a) + (c1.b * c2.b)) / ((Math.Pow(c2.a, 2)) + (Math.Pow(c2.b, 2)));
+            c1.b = ((c1.b * c2.a) - (c1.a * c2.b)) / ((Math.Pow(c2.a, 2)) + (Math.Pow(c2.b, 2)));
+            c1.a = d.a;
+            return c1;
+        }
+
+    }
+}

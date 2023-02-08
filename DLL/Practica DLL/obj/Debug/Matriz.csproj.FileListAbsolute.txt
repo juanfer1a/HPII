@@ -1,0 +1,13 @@
+C:\Users\ferch\source\repos\Practica DLL\bin\Debug\Practica DLL.exe.config
+C:\Users\ferch\source\repos\Practica DLL\bin\Debug\Practica DLL.exe
+C:\Users\ferch\source\repos\Practica DLL\bin\Debug\Practica DLL.pdb
+C:\Users\ferch\source\repos\Practica DLL\bin\Debug\OperacionesAritmeticasArrays.dll
+C:\Users\ferch\source\repos\Practica DLL\bin\Debug\OperacionesAritmeticasArrays.pdb
+C:\Users\ferch\source\repos\Practica DLL\obj\Debug\Matriz.csprojAssemblyReference.cache
+C:\Users\ferch\source\repos\Practica DLL\obj\Debug\Matriz.csproj.GenerateResource.cache
+C:\Users\ferch\source\repos\Practica DLL\obj\Debug\Matriz.csproj.CoreCompileInputs.cache
+C:\Users\ferch\source\repos\Practica DLL\obj\Debug\Matriz.csproj.CopyComplete
+C:\Users\ferch\source\repos\Practica DLL\obj\Debug\Practica DLL.exe
+C:\Users\ferch\source\repos\Practica DLL\obj\Debug\Practica DLL.pdb
+C:\Users\ferch\source\repos\Practica DLL\obj\Debug\Matriz.Properties.Resources.resources
+C:\Users\ferch\source\repos\Practica DLL\obj\Debug\Matriz.Frm_Matriz.resources

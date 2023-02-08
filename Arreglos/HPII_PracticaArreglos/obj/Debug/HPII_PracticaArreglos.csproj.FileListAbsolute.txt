@@ -1,0 +1,20 @@
+C:\Users\ferch\source\repos\HPII_PracticaArreglos\bin\Debug\HPII_PracticaArreglos.exe.config
+C:\Users\ferch\source\repos\HPII_PracticaArreglos\bin\Debug\HPII_PracticaArreglos.exe
+C:\Users\ferch\source\repos\HPII_PracticaArreglos\bin\Debug\HPII_PracticaArreglos.pdb
+C:\Users\ferch\source\repos\HPII_PracticaArreglos\obj\Debug\HPII_PracticaArreglos.csprojAssemblyReference.cache
+C:\Users\ferch\source\repos\HPII_PracticaArreglos\obj\Debug\HPII_PracticaArreglos.Properties.Resources.resources
+C:\Users\ferch\source\repos\HPII_PracticaArreglos\obj\Debug\HPII_PracticaArreglos.csproj.GenerateResource.cache
+C:\Users\ferch\source\repos\HPII_PracticaArreglos\obj\Debug\HPII_PracticaArreglos.csproj.CoreCompileInputs.cache
+C:\Users\ferch\source\repos\HPII_PracticaArreglos\obj\Debug\HPII_PracticaArreglos.exe
+C:\Users\ferch\source\repos\HPII_PracticaArreglos\obj\Debug\HPII_PracticaArreglos.pdb
+C:\Users\ferch\source\repos\HPII_PracticaArreglos\obj\Debug\HPII_PracticaArreglos.frmArreglos.resources
+I:\Mi unidad\2021-1\HPII\HPII_PracticaArreglos\bin\Debug\HPII_PracticaArreglos.exe.config
+I:\Mi unidad\2021-1\HPII\HPII_PracticaArreglos\bin\Debug\HPII_PracticaArreglos.exe
+I:\Mi unidad\2021-1\HPII\HPII_PracticaArreglos\bin\Debug\HPII_PracticaArreglos.pdb
+I:\Mi unidad\2021-1\HPII\HPII_PracticaArreglos\obj\Debug\HPII_PracticaArreglos.csprojAssemblyReference.cache
+I:\Mi unidad\2021-1\HPII\HPII_PracticaArreglos\obj\Debug\HPII_PracticaArreglos.frmArreglos.resources
+I:\Mi unidad\2021-1\HPII\HPII_PracticaArreglos\obj\Debug\HPII_PracticaArreglos.Properties.Resources.resources
+I:\Mi unidad\2021-1\HPII\HPII_PracticaArreglos\obj\Debug\HPII_PracticaArreglos.csproj.GenerateResource.cache
+I:\Mi unidad\2021-1\HPII\HPII_PracticaArreglos\obj\Debug\HPII_PracticaArreglos.csproj.CoreCompileInputs.cache
+I:\Mi unidad\2021-1\HPII\HPII_PracticaArreglos\obj\Debug\HPII_PracticaArreglos.exe
+I:\Mi unidad\2021-1\HPII\HPII_PracticaArreglos\obj\Debug\HPII_PracticaArreglos.pdb
